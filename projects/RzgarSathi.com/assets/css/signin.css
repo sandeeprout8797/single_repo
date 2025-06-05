@@ -1,0 +1,28 @@
+/* Global Reset */
+* {
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    padding: 0px;
+    margin: 0px;
+  }
+
+.companyName {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+
+.welcomeDiv {
+    height: 100px;
+    width: 400px;
+    margin-top: 25vh;
+    background: linear-gradient(to right, #eccaf8, #dc7ffd);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
